@@ -1,4 +1,4 @@
-# whenCanIRetire
+# howmuchmoolah
 Janky retirement calculator written for myself.
 
 **Example outputs**:
