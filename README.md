@@ -1,5 +1,5 @@
 # howmuchmoolah
-Janky retirement calculator written for myself.
+Janky personal finance calculator written for myself.
 
 **Example outputs**:
 <img width="1193" height="769" alt="image" src="https://github.com/user-attachments/assets/c252639d-9657-471c-9171-40d6da9db7d5" />
